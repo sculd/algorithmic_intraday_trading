@@ -1,0 +1,17 @@
+pytz
+PyYAML
+pandas
+google-cloud-storage
+google-cloud-logging
+websockets
+google-cloud-pubsub
+google-cloud-bigquery
+requests
+python-binance
+dicttoxml
+requests_oauthlib
+matplotlib
+gnuplotlib
+cython
+influxdb-client
+tda-api

@@ -1,0 +1,8 @@
+market:
+    open: "09:30:00"
+    trading_start: "09:50:00"
+    close: "16:00:00"
+    ingest_end: "15:50:00"
+    timezone: US/EASTERN
+trading:
+    positionsize: 8000
